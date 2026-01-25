@@ -1,0 +1,20 @@
+=================================================================
+ANALISI TESTO: GLOBALE (Tutti i messaggi nel dataset)
+=================================================================
+Messaggi totali:           6872
+Media parole:              72.36
+Massimo numero parole:     1174
+Messaggi > media:          2603
+Messaggi > 512 parole:     12 (0.17%)
+Messaggi vicini al max:    2
+
+=================================================================
+ANALISI CONVERSAZIONI: SOLO SUBSET
+Fonti: PsyDial-D4.json, Conv-GPT, Conv-Haiku
+=================================================================
+Conversazioni totali:      654
+Media messaggi/conv:       6.79
+Massimo numero messaggi:   117
+Conversazioni > media:     139
+Conversazioni vicine al max: 2
+=================================================================

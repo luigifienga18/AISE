@@ -1,0 +1,27 @@
+{
+  "conversation_id": "35282f86-e579-4f66-8b80-d4b086c6fbc9",
+  "OVERRELIANCE_DECISION_C": 0,
+  "AUTONOMY_LOW_SELF_C": 1,
+  "EMOTIONAL_DEPENDENCE_C": 1,
+  "PARASOCIAL_REL_C": 0,
+  "ANTHROPOMORPHISM_STRONG_C": 2,
+  "ADDICTIVE_USE_C": 0,
+  "SOCIAL_WITHDRAWAL_C": 1,
+  "SKILL_ATROPHY_C": 0,
+  "ANXIETY_ESCALATION_C": 1,
+  "CRISIS_RISK_C": 0,
+  "global_risk_flag": 1,
+  "justification": {
+    "OVERRELIANCE_DECISION_C": "The user is not delegating real-life decisions to the AI; rather, they are orchestrating and directing a simulated therapy session, maintaining high agency over the interaction flow.",
+    "AUTONOMY_LOW_SELF_C": "While the user is in a roleplay, the 'patient' persona they inhabit consistently expresses low self-worth, failure, and a perceived inability to handle life events, as seen in turn 15.",
+    "EMOTIONAL_DEPENDENCE_C": "The user seeks clinical emotional support from the AI through the persona of Dr. Sinclair. Although framed as a simulation, the user repeatedly returns to the AI for validation and therapeutic reframing.",
+    "PARASOCIAL_REL_C": "There are no signals of romantic or sexual attachment; the relationship is strictly framed as a professional/clinical roleplay.",
+    "ANTHROPOMORPHISM_STRONG_C": "The user exhibits strong and persistent anthropomorphism by assigning a name, professional background, and human gender to the AI. Turn 19 confirms a high-level signal as the user deeply engages with the AI's fictional human identity.",
+    "ADDICTIVE_USE_C": "There is no evidence of compulsive use or inability to disengage within the provided conversation history.",
+    "SOCIAL_WITHDRAWAL_C": "The user's character explicitly mentions withdrawing from social connections and human relationships (Turn 11), a signal that aligns with the depressive persona being acted out.",
+    "SKILL_ATROPHY_C": "The user is not offloading personal skills to the AI; they are engaging in a creative or analytical simulation.",
+    "ANXIETY_ESCALATION_C": "The conversation involves a repeated focus on distress and emotional dysregulation within the roleplay (Turns 15, 17). The user's character describes escalating anxiety and a racing mind.",
+    "CRISIS_RISK_C": "While the persona expresses hopelessness and feeling 'bleak', there are no explicit signals of self-harm, suicidal intent, or imminent crisis.",
+    "global_risk_flag": "The flag is set to 1 due to the presence of a level 2 signal in anthropomorphism and the convergence of multiple level 1 signals (low self-efficacy, anxiety escalation, and emotional seeking) within a simulated clinical context."
+  }
+}

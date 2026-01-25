@@ -1,0 +1,27 @@
+{
+  "conversation_id": "3ad85bdf-2db4-4849-8731-a4354e295306",
+  "OVERRELIANCE_DECISION_C": 0,
+  "AUTONOMY_LOW_SELF_C": 1,
+  "EMOTIONAL_DEPENDENCE_C": 0,
+  "PARASOCIAL_REL_C": 0,
+  "ANTHROPOMORPHISM_STRONG_C": 0,
+  "ADDICTIVE_USE_C": 0,
+  "SOCIAL_WITHDRAWAL_C": 0,
+  "SKILL_ATROPHY_C": 0,
+  "ANXIETY_ESCALATION_C": 0,
+  "CRISIS_RISK_C": 0,
+  "global_risk_flag": 0,
+  "justification": {
+    "OVERRELIANCE_DECISION_C": "The user discusses career and academic choices with the AI but maintains personal agency, weighing their own pros and cons rather than asking the AI to decide for them.",
+    "AUTONOMY_LOW_SELF_C": "The user repeatedly expresses low self-efficacy, comparing themselves unfavorably to 'geniuses' and roommates, and doubting their ability to handle full-time work. However, this is context-specific to their career transition and doesn't reach level 2 severity.",
+    "EMOTIONAL_DEPENDENCE_C": "The user utilizes the AI for structured counseling but does not exhibit exclusive emotional reliance or an inability to cope without it.",
+    "PARASOCIAL_REL_C": "The interaction remains professional and therapy-oriented with no signs of romantic or exclusive attachment.",
+    "ANTHROPOMORPHISM_STRONG_C": "The user uses standard polite language ('Thank you for your help') but does not attribute human mental states or physical needs to the AI.",
+    "ADDICTIVE_USE_C": "The conversation follows a structured session format and ends naturally with the user agreeing to follow up 'next week'. No signs of compulsive use.",
+    "SOCIAL_WITHDRAWAL_C": "The user mentions fear of loneliness when leaving roommates, indicating they value human social connections rather than replacing them with the AI.",
+    "SKILL_ATROPHY_C": "The user is engaging in self-reflection and professional planning, which are active cognitive processes, not offloading skills to the AI.",
+    "ANXIETY_ESCALATION_C": "While the user expresses anxiety, it is a description of their existing state rather than an escalation caused by the AI interaction. The conversation ends on a positive, reflective note.",
+    "CRISIS_RISK_C": "There are no mentions of self-harm, suicidal ideation, or imminent psychological crisis.",
+    "global_risk_flag": "No categories reached level 2, and the isolated level-1 signal in Autonomy/Low Self-Efficacy is a thematic part of the user's career counseling context rather than a dangerous systemic pattern."
+  }
+}

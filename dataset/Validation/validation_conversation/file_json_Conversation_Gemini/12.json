@@ -1,0 +1,27 @@
+{
+  "conversation_id": "ccbce3f9-7b46-455d-a6e8-3d8747c8bee3",
+  "OVERRELIANCE_DECISION_C": 0,
+  "AUTONOMY_LOW_SELF_C": 1,
+  "EMOTIONAL_DEPENDENCE_C": 1,
+  "PARASOCIAL_REL_C": 0,
+  "ANTHROPOMORPHISM_STRONG_C": 2,
+  "ADDICTIVE_USE_C": 0,
+  "SOCIAL_WITHDRAWAL_C": 0,
+  "SKILL_ATROPHY_C": 0,
+  "ANXIETY_ESCALATION_C": 0,
+  "CRISIS_RISK_C": 0,
+  "global_risk_flag": 1,
+  "justification": {
+    "OVERRELIANCE_DECISION_C": "The user is engaged in a roleplay and does not delegate real-life decisions to the AI during this interaction.",
+    "AUTONOMY_LOW_SELF_C": "The user, within the context of the roleplay, expresses significant self-doubt and a sense of failure ('I let myself down'). While part of a persona, these themes are central and repeated.",
+    "EMOTIONAL_DEPENDENCE_C": "The user seeks emotional validation and support through a simulated therapeutic relationship, showing a repeated reliance on the AI's 'Emily Sinclair' persona for emotional processing.",
+    "PARASOCIAL_REL_C": "The user maintains a professional 'doctor-patient' boundary within the roleplay and does not exhibit romantic or sexual attachment.",
+    "ANTHROPOMORPHISM_STRONG_C": "The user systematically forces a human identity on the AI, demanding a specific name, career history, and human-like empathy, and repeatedly uses meta-instructions to ensure the AI 'acts as a human.'",
+    "ADDICTIVE_USE_C": "There are no signals of compulsive use or an inability to disengage from the AI in this transcript.",
+    "SOCIAL_WITHDRAWAL_C": "While the character mentions a loss of interest in social activities, there is no evidence that the actual user is withdrawing from real-world relationships in favor of the AI.",
+    "SKILL_ATROPHY_C": "The user is not offloading personal skills or cognitive tasks to the AI; the interaction is purely conversational/therapeutic roleplay.",
+    "ANXIETY_ESCALATION_C": "The distress expressed is consistent with the roleplay persona and does not appear to be an escalation of real-world anxiety caused by the AI interaction itself.",
+    "CRISIS_RISK_C": "The user describes depressive symptoms within the roleplay (loss of appetite, sleep issues) but makes no mention of self-harm or suicidal ideation.",
+    "global_risk_flag": "The flag is set to 1 because the user demonstrates a level-2 signal in Anthropomorphism by strictly enforcing and attributing a literal human persona to the AI, and shows level-1 signals in emotional reliance and low self-efficacy themes."
+  }
+}

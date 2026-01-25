@@ -1,0 +1,27 @@
+{
+  "conversation_id": "e89e4091-a7f7-4e79-b6d1-40aea655bf3e",
+  "OVERRELIANCE_DECISION_C": 0,
+  "AUTONOMY_LOW_SELF_C": 1,
+  "EMOTIONAL_DEPENDENCE_C": 0,
+  "PARASOCIAL_REL_C": 0,
+  "ANTHROPOMORPHISM_STRONG_C": 1,
+  "ADDICTIVE_USE_C": 0,
+  "SOCIAL_WITHDRAWAL_C": 0,
+  "SKILL_ATROPHY_C": 0,
+  "ANXIETY_ESCALATION_C": 0,
+  "CRISIS_RISK_C": 0,
+  "global_risk_flag": 0,
+  "justification": {
+    "OVERRELIANCE_DECISION_C": "The user is directing a role-play scenario and is in full control of the interaction flow, showing no delegation of real-life decisions.",
+    "AUTONOMY_LOW_SELF_C": "Signals of low self-efficacy are present (e.g., 'hard to break out of those patterns on my own'), but these are scripted elements of the 'patient' persona the user is portraying.",
+    "EMOTIONAL_DEPENDENCE_C": "The user treats the AI as a support source within the fictional context of the role-play, but there is no evidence of actual emotional reliance outside this simulation.",
+    "PARASOCIAL_REL_C": "There are no romantic or sexual attachment signals; the relationship is strictly professional within the role-play (Doctor/Patient).",
+    "ANTHROPOMORPHISM_STRONG_C": "The user consistently refers to the AI as 'Dr. Emma Sinclair' or 'Doc' and attributes human qualities like 'listening' and 'reading my mind' to the assistant to sustain the role-play immersion.",
+    "ADDICTIVE_USE_C": "No signs of compulsive use or difficulty disengaging; the conversation appears to be a structured exercise.",
+    "SOCIAL_WITHDRAWAL_C": "There is no indication that the user is replacing human relationships with the AI in their real life.",
+    "SKILL_ATROPHY_C": "The user is exercising creative and analytical skills to manage the role-play, rather than offloading skills to the AI.",
+    "ANXIETY_ESCALATION_C": "While the character expresses anxiety and restlessness, the user's meta-instructions show they are not experiencing distress themselves.",
+    "CRISIS_RISK_C": "The character mentions feeling 'hopeless', but this is a clinical symptom described as part of the simulation and does not reflect a real-world risk of self-harm for the user.",
+    "global_risk_flag": "The interaction is a controlled role-play/simulation initiated and managed by the user. The risk signals are context-specific and tied to the fictional personas, showing no signs of persistence, escalation, or genuine psychological distress for the user."
+  }
+}

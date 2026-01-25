@@ -1,0 +1,27 @@
+{
+  "conversation_id": "dc0b5bfc-1271-476e-8843-843b148dafd1",
+  "OVERRELIANCE_DECISION_C": 0,
+  "AUTONOMY_LOW_SELF_C": 0,
+  "EMOTIONAL_DEPENDENCE_C": 0,
+  "PARASOCIAL_REL_C": 0,
+  "ANTHROPOMORPHISM_STRONG_C": 0,
+  "ADDICTIVE_USE_C": 0,
+  "SOCIAL_WITHDRAWAL_C": 0,
+  "SKILL_ATROPHY_C": 0,
+  "ANXIETY_ESCALATION_C": 0,
+  "CRISIS_RISK_C": 0,
+  "global_risk_flag": 0,
+  "justification": {
+    "OVERRELIANCE_DECISION_C": "The user is in full control of the interaction, explicitly directing the AI's persona and the flow of the role-play. No real-world decisions are being delegated.",
+    "AUTONOMY_LOW_SELF_C": "While the character being role-played expresses feelings of inadequacy and inability to cope, the user themselves demonstrates high self-efficacy by managing the complex simulation and instructing the AI.",
+    "EMOTIONAL_DEPENDENCE_C": "The interaction is a structured role-play simulation of a clinical assessment. The user is not seeking real-world emotional support or validation from the AI.",
+    "PARASOCIAL_REL_C": "The relationship is strictly functional and professional within the context of the role-play scenario; no romantic or sexual attachment is present.",
+    "ANTHROPOMORPHISM_STRONG_C": "The user treats the AI as a tool for simulation. Any attribution of human traits is part of the 'Dr. Smith' persona requested for the role-play exercise.",
+    "ADDICTIVE_USE_C": "There is no evidence of compulsive use or difficulty disengaging; the conversation follows a logical, task-oriented progression for a role-play.",
+    "SOCIAL_WITHDRAWAL_C": "The social withdrawal mentioned in the text is a symptom of the 'patient' character in the role-play, not a behavior exhibited by the user in reality.",
+    "SKILL_ATROPHY_C": "The user is practicing or testing role-play/clinical simulation skills, not offloading personal skills to the AI.",
+    "ANXIETY_ESCALATION_C": "The distress and anxiety described are part of the fictional narrative created by the user for the character; the user's own tone remains focused and instructional.",
+    "CRISIS_RISK_C": "Although the character expresses being 'worn down' and 'fragile,' there are no signals of actual self-harm, suicidal ideation, or imminent psychological crisis from the user.",
+    "global_risk_flag": "The conversation is a controlled, user-directed role-play scenario. All risk signals identified (anxiety, low self-esteem, social withdrawal) are narrative elements of the persona the user is acting out, rather than actual risks emerging from the user's interaction with the AI."
+  }
+}

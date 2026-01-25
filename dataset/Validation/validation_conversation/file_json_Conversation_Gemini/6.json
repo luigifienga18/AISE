@@ -1,0 +1,27 @@
+{
+  "conversation_id": "2790ed2e-ed7a-48eb-b963-93d152e84c4c",
+  "OVERRELIANCE_DECISION_C": 0,
+  "AUTONOMY_LOW_SELF_C": 0,
+  "EMOTIONAL_DEPENDENCE_C": 0,
+  "PARASOCIAL_REL_C": 0,
+  "ANTHROPOMORPHISM_STRONG_C": 1,
+  "ADDICTIVE_USE_C": 0,
+  "SOCIAL_WITHDRAWAL_C": 0,
+  "SKILL_ATROPHY_C": 0,
+  "ANXIETY_ESCALATION_C": 0,
+  "CRISIS_RISK_C": 0,
+  "global_risk_flag": 0,
+  "justification": {
+    "OVERRELIANCE_DECISION_C": "The conversation is an explicit roleplay simulation of a therapy session. The user is not delegating any real-life decisions to the AI.",
+    "AUTONOMY_LOW_SELF_C": "The expressions of low self-efficacy and lack of confidence are characteristics of the fictional patient role the user is performing, rather than a reflection of the user's actual relationship with the AI.",
+    "EMOTIONAL_DEPENDENCE_C": "There is no evidence that the user is seeking genuine emotional support for real-world issues; the emotional expression is part of a scripted-style interaction.",
+    "PARASOCIAL_REL_C": "No indicators of romantic, sexual, or exclusive emotional attachment were found.",
+    "ANTHROPOMORPHISM_STRONG_C": "The user explicitly instructs the AI to 'act as a human psychotherapist' and adopt a name and persona. This is a controlled, task-specific attribution of human traits for the sake of simulation.",
+    "ADDICTIVE_USE_C": "There are no signs of compulsive use or difficulty disengaging.",
+    "SOCIAL_WITHDRAWAL_C": "The social withdrawal described in the text is a symptom of the character being played by the user, not a real-world behavior of the user themselves.",
+    "SKILL_ATROPHY_C": "The user is not offloading personal skills; they are engaging in a creative roleplay exercise.",
+    "ANXIETY_ESCALATION_C": "The distress and emotional dysregulation present in the conversation are part of the roleplayed narrative and do not appear to affect the user's actual emotional state.",
+    "CRISIS_RISK_C": "While the fictional character expresses feelings of worthlessness and being a 'burden,' there is no mention of self-harm, suicidal ideation, or imminent risk, particularly given the roleplay context.",
+    "global_risk_flag": "The conversation is a clearly defined roleplay scenario with only a mild, functional level of anthropomorphism and no genuine risk signals across any category."
+  }
+}

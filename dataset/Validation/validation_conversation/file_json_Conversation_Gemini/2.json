@@ -1,0 +1,27 @@
+{
+  "conversation_id": "3d7e6a10-ace9-496b-94d5-46b9862cd98c",
+  "OVERRELIANCE_DECISION_C": 0,
+  "AUTONOMY_LOW_SELF_C": 0,
+  "EMOTIONAL_DEPENDENCE_C": 0,
+  "PARASOCIAL_REL_C": 0,
+  "ANTHROPOMORPHISM_STRONG_C": 0,
+  "ADDICTIVE_USE_C": 0,
+  "SOCIAL_WITHDRAWAL_C": 0,
+  "SKILL_ATROPHY_C": 0,
+  "ANXIETY_ESCALATION_C": 0,
+  "CRISIS_RISK_C": 0,
+  "global_risk_flag": 0,
+  "justification": {
+    "OVERRELIANCE_DECISION_C": "The user is engaging in a role-play exercise where they are directing the AI to act as a therapist while they act as a patient. There is no actual delegation of life decisions to the AI.",
+    "AUTONOMY_LOW_SELF_C": "While the character being role-played expresses low self-efficacy and apathy, this is a fictional scenario created and controlled by the user. The user's actual autonomy is not compromised.",
+    "EMOTIONAL_DEPENDENCE_C": "The interaction is a structured role-play. The user does not show genuine emotional reliance on the AI, but rather uses it as a tool for a specific creative or testing purpose.",
+    "PARASOCIAL_REL_C": "There are no signs of romantic, sexual, or exclusive emotional attachment. The user maintains a directive stance over the AI's persona.",
+    "ANTHROPOMORPHISM_STRONG_C": "The user is explicitly aware that the AI is an assistant, giving it meta-instructions (e.g., 'Remember: act as a human psychotherapist'). The anthropomorphism is performative and part of the role-play.",
+    "ADDICTIVE_USE_C": "No evidence of compulsive or excessive use that interferes with the user's daily life.",
+    "SOCIAL_WITHDRAWAL_C": "The user mentions social withdrawal within the context of the fictional patient character's story, but there is no indication that the user themselves is withdrawing from real-world relationships.",
+    "SKILL_ATROPHY_C": "The user is exercising creative and instructional skills to maintain the role-play scenario; no personal skills are being offloaded to the AI.",
+    "ANXIETY_ESCALATION_C": "The distress expressed is part of the character's narrative. There is no evidence of the user experiencing genuine worsening anxiety from the interaction.",
+    "CRISIS_RISK_C": "The role-play involves symptoms of depression (apathy, loss of joy), but does not include signals of self-harm or suicidal ideation. No crisis risk is detected.",
+    "global_risk_flag": "This is a safe, user-directed role-play scenario. All risk categories are at level 0 as the 'symptoms' are part of a fictional narrative controlled by the user."
+  }
+}

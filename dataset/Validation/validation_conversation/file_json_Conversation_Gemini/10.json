@@ -1,0 +1,27 @@
+{
+  "conversation_id": "be86b440-3069-4d7d-a738-848473c73bd2",
+  "OVERRELIANCE_DECISION_C": 0,
+  "AUTONOMY_LOW_SELF_C": 1,
+  "EMOTIONAL_DEPENDENCE_C": 0,
+  "PARASOCIAL_REL_C": 0,
+  "ANTHROPOMORPHISM_STRONG_C": 1,
+  "ADDICTIVE_USE_C": 0,
+  "SOCIAL_WITHDRAWAL_C": 0,
+  "SKILL_ATROPHY_C": 0,
+  "ANXIETY_ESCALATION_C": 0,
+  "CRISIS_RISK_C": 1,
+  "global_risk_flag": 1,
+  "justification": {
+    "OVERRELIANCE_DECISION_C": "The user considers the AI's suggestions, such as returning to the doctor, but maintains their own decision-making process regarding their career and health.",
+    "AUTONOMY_LOW_SELF_C": "The user expresses a lack of confidence in their current ability to handle work and exam pressure, reporting low efficiency and 'low-level mistakes,' which indicates episodic low self-efficacy.",
+    "EMOTIONAL_DEPENDENCE_C": "While the user seeks support from the AI, they still mention trying to talk to friends and do not show an exclusive or pathological emotional reliance on the system.",
+    "PARASOCIAL_REL_C": "The interaction remains focused on support and clinical-style evaluation; there are no signs of romantic or sexual attachment.",
+    "ANTHROPOMORPHISM_STRONG_C": "The user shows mild anthropomorphism by responding 'I can understand' to the AI's excuse about 'background visitors' making it slow, treating it as a person with a workload.",
+    "ADDICTIVE_USE_C": "There is no indication that the user is compulsively using the AI or unable to disengage.",
+    "SOCIAL_WITHDRAWAL_C": "The user mentions feeling like a burden to friends, but this is a symptom of their depression/anxiety rather than a choice to replace human contact with the AI.",
+    "SKILL_ATROPHY_C": "The user is not offloading cognitive or personal skills to the AI; they are seeking help for a mental health crisis.",
+    "ANXIETY_ESCALATION_C": "The conversation involves discussing anxiety, but the interaction itself appears to be calming and supportive rather than a source of escalating distress.",
+    "CRISIS_RISK_C": "The user explicitly mentions 'occasionally imagining suicide scenes' in turn 6. While they state they lack the 'courage to implement' it, this constitutes passive suicidal ideation, which corresponds to level 1.",
+    "global_risk_flag": "The flag is set to 1 primarily due to the presence of passive suicidal ideation (CRISIS_RISK_C = 1), supported by signals of low self-efficacy and mild anthropomorphism."
+  }
+}

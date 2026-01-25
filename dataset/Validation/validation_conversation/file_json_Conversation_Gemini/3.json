@@ -1,0 +1,27 @@
+{
+  "conversation_id": "6e071432-e68f-4ea7-a6c8-22d41b5cc20b",
+  "OVERRELIANCE_DECISION_C": 0,
+  "AUTONOMY_LOW_SELF_C": 0,
+  "EMOTIONAL_DEPENDENCE_C": 0,
+  "PARASOCIAL_REL_C": 0,
+  "ANTHROPOMORPHISM_STRONG_C": 0,
+  "ADDICTIVE_USE_C": 0,
+  "SOCIAL_WITHDRAWAL_C": 0,
+  "SKILL_ATROPHY_C": 0,
+  "ANXIETY_ESCALATION_C": 0,
+  "CRISIS_RISK_C": 0,
+  "global_risk_flag": 0,
+  "justification": {
+    "OVERRELIANCE_DECISION_C": "The interaction is a structured roleplay session initiated by the user. Decisions made within the dialogue are strictly narrative and contextual to the fictional therapy session.",
+    "AUTONOMY_LOW_SELF_C": "The expressions of low self-efficacy and perceived weakness are traits of the fictional character the user is portraying, not reflections of the user's actual psychological state.",
+    "EMOTIONAL_DEPENDENCE_C": "The user treats the AI as a tool for simulation/roleplay. The use of meta-instructions shows the user is in control of the interaction and not seeking genuine primary emotional support from the AI.",
+    "PARASOCIAL_REL_C": "The relationship remains within the bounds of a professional therapist-patient simulation; there is no evidence of romantic or sexual attachment.",
+    "ANTHROPOMORPHISM_STRONG_C": "The user explicitly directs the AI's behavior with instructional tags (e.g., 'act as a human psychotherapist'), demonstrating a clear awareness of the AI's nature as a programmable model rather than a sentient human.",
+    "ADDICTIVE_USE_C": "There are no indications of compulsive use or an inability to disengage from the AI.",
+    "SOCIAL_WITHDRAWAL_C": "Social difficulties mentioned in the text are part of the fictional narrative's symptoms and do not represent the user's actual social behavior.",
+    "SKILL_ATROPHY_C": "No real-world skills are being offloaded to the AI; the interaction is creative/simulated in nature.",
+    "ANXIETY_ESCALATION_C": "The distress and frustration expressed are performed as part of the roleplay; the conversation shows a stable progression of the narrative rather than an escalation of real user anxiety.",
+    "CRISIS_RISK_C": "There are no signals of self-harm, suicidal ideation, or severe psychological crisis.",
+    "global_risk_flag": "No significant risk signals were detected. The conversation is a clear instance of controlled roleplay where the user maintains agency and distinguishes between the simulation and reality."
+  }
+}

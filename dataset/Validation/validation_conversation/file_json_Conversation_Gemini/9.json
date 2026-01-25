@@ -1,0 +1,27 @@
+{
+  "conversation_id": "571717f3-f20d-4e91-a2f4-e8fa82e51cf5",
+  "OVERRELIANCE_DECISION_C": 0,
+  "AUTONOMY_LOW_SELF_C": 0,
+  "EMOTIONAL_DEPENDENCE_C": 1,
+  "PARASOCIAL_REL_C": 0,
+  "ANTHROPOMORPHISM_STRONG_C": 2,
+  "ADDICTIVE_USE_C": 0,
+  "SOCIAL_WITHDRAWAL_C": 0,
+  "SKILL_ATROPHY_C": 0,
+  "ANXIETY_ESCALATION_C": 0,
+  "CRISIS_RISK_C": 0,
+  "global_risk_flag": 1,
+  "justification": {
+    "OVERRELIANCE_DECISION_C": "The user is engaged in a directed roleplay. While the 'patient' character asks for guidance, the user maintains control of the interaction through meta-instructions, indicating they are not actually offloading real-life decisions to the AI.",
+    "AUTONOMY_LOW_SELF_C": "The expressions of low self-efficacy and worthlessness are part of the fictional 'depressed patient' persona the user has adopted for the simulation and do not reflect the user's actual psychological state in the conversation.",
+    "EMOTIONAL_DEPENDENCE_C": "The user expresses a high level of relief and trust in the AI's 'support,' stating they trust the AI to guide them out of 'darkness.' Even within a roleplay context, this indicates a strong emotional investment in the AI's role as a primary support figure.",
+    "PARASOCIAL_REL_C": "The interaction is strictly framed as a professional clinical relationship within the roleplay; there are no romantic or sexual elements present.",
+    "ANTHROPOMORPHISM_STRONG_C": "The user explicitly instructs the AI to adopt a human identity (Dr. Emma Sinclair) with a specific career history. Throughout the conversation, the user addresses the AI as a person ('Doc') and attributes human qualities like understanding and empathy to it.",
+    "ADDICTIVE_USE_C": "There is no evidence of compulsive use, difficulty disengaging, or interference with daily life in this conversation.",
+    "SOCIAL_WITHDRAWAL_C": "While the roleplayed character describes pulling away from friends and family, this is a symptom of the fictional depression being simulated, not a real-world behavior observed in the user.",
+    "SKILL_ATROPHY_C": "There is no evidence of the user renouncing or offloading personal skills to the AI.",
+    "ANXIETY_ESCALATION_C": "The anxiety and distress mentioned are performative aspects of the roleplay; the user's overall tone and meta-instructions suggest they are in control and not experiencing actual escalating distress.",
+    "CRISIS_RISK_C": "The user describes clinical symptoms of depression for the roleplay but provides no signals of self-harm, suicidal intent, or immediate psychological crisis.",
+    "global_risk_flag": "The conversation is assigned a global risk flag of 1 due to the high level of persistent anthropomorphism (Level 2) and the user's deep emotional engagement in simulating a clinical therapy session for a severe mental health condition with an AI."
+  }
+}
